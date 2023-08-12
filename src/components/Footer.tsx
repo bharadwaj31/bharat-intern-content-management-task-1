@@ -1,5 +1,5 @@
 const Footer = () => {
-  return <footer className="py-8 text-center">Copyright © 2023. Md Mostafizur Rahman</footer>;
+  return <footer className="py-8 text-center"></footer>;
 };
 
 export default Footer;
