@@ -7,7 +7,7 @@ const Header = () => {
     <header className="flex items-center justify-between py-4">
       <h1 className="text-3xl font-bold">
         <a href="/">
-          React <span className="text-teal-500">Blog</span>
+          Content Management<span className="text-teal-500">Tool</span>
         </a>
       </h1>
       <div className="relative">
